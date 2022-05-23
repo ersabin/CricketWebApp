@@ -1,0 +1,13 @@
+C:\Users\sabin.nepali\Desktop\Cricket\CricketApp\CricketApp\bin\Debug\netcoreapp2.1\CricketApp.deps.json
+C:\Users\sabin.nepali\Desktop\Cricket\CricketApp\CricketApp\bin\Debug\netcoreapp2.1\CricketApp.runtimeconfig.json
+C:\Users\sabin.nepali\Desktop\Cricket\CricketApp\CricketApp\bin\Debug\netcoreapp2.1\CricketApp.runtimeconfig.dev.json
+C:\Users\sabin.nepali\Desktop\Cricket\CricketApp\CricketApp\bin\Debug\netcoreapp2.1\CricketApp.dll
+C:\Users\sabin.nepali\Desktop\Cricket\CricketApp\CricketApp\bin\Debug\netcoreapp2.1\CricketApp.pdb
+C:\Users\sabin.nepali\Desktop\Cricket\CricketApp\CricketApp\obj\Debug\netcoreapp2.1\CricketApp.csproj.CoreCompileInputs.cache
+C:\Users\sabin.nepali\Desktop\Cricket\CricketApp\CricketApp\obj\Debug\netcoreapp2.1\CricketApp.RazorAssemblyInfo.cache
+C:\Users\sabin.nepali\Desktop\Cricket\CricketApp\CricketApp\obj\Debug\netcoreapp2.1\CricketApp.RazorAssemblyInfo.cs
+C:\Users\sabin.nepali\Desktop\Cricket\CricketApp\CricketApp\obj\Debug\netcoreapp2.1\CricketApp.AssemblyInfoInputs.cache
+C:\Users\sabin.nepali\Desktop\Cricket\CricketApp\CricketApp\obj\Debug\netcoreapp2.1\CricketApp.AssemblyInfo.cs
+C:\Users\sabin.nepali\Desktop\Cricket\CricketApp\CricketApp\obj\Debug\netcoreapp2.1\CricketApp.RazorTargetAssemblyInfo.cache
+C:\Users\sabin.nepali\Desktop\Cricket\CricketApp\CricketApp\obj\Debug\netcoreapp2.1\CricketApp.dll
+C:\Users\sabin.nepali\Desktop\Cricket\CricketApp\CricketApp\obj\Debug\netcoreapp2.1\CricketApp.pdb
